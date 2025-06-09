@@ -2,7 +2,7 @@ import os
 import cohere
 
 # Securely retrieve API key from environment variable
-cohere_api_key = "c5shsfP2T5NHnUl2FeyMExRG3HjqvYXovuUJyB1h"
+cohere_api_key = "Cohere_API"
 
 # Validate API key
 if not cohere_api_key:
